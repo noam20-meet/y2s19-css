@@ -6,4 +6,24 @@ body {
 a{
 	color:white;
 }
+.veg {color: red;}
+.sidebar{ 
+background-color: #00FFFF;
+position:absolute;
+top:0px;
+margin-left: 1px;
+
+}
+.title{ width: 100%; height: 60px; }
+.container{
+	position: relative;
+}
+.content{
+position:absolute;
+top:0px;
+left:200px;
+}
+#one { background-color: green; }
+
+
 
